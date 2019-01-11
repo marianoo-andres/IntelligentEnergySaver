@@ -5,10 +5,9 @@ Intelligent Energy Saver
 Desarrollado por Decoding
 http://decoding.com.ar/
 
-Descripción
-    Intelligent Energy Saver utiliza inteligencia artificial para reconocer caras utilizando
-    la cámera web de la computadora.
-    Ahorra energía apagando la pantalla cuando no se detecta una cara enfrente del monitor.
+Intelligent Energy Saver utiliza inteligencia artificial para reconocer caras utilizando
+la cámera web de la computadora.
+Ahorra energía apagando la pantalla cuando no se detecta una cara enfrente del monitor.
 
 Configuración
     tiempo_apagado_en_minutos:
